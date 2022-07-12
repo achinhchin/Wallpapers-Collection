@@ -1,0 +1,21 @@
+{
+    "versions": {
+        "0.0": {
+            "features": [
+                "Wallpapers Collection"
+            ],
+            "release": false,
+            "updates": [
+                "Init and open version for add more wallpapers"
+            ],
+            "development versions": {}
+        }
+    },
+    "features": {
+        "future": {},
+        "present": {
+            "Wallpapers Collection": "0.0 -> now"
+        },
+        "past": {}
+    }
+}
